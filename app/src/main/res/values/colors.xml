@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sulyap_background">#FF0B1220</color>
+    <color name="sulyap_surface">#FF141C2E</color>
+    <color name="sulyap_green">#FF2ECC91</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
